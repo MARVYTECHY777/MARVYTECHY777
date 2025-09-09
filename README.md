@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineering, and lots of Programming Languages 
 - 💞️ I’m looking to collaborate on Creating Apps
 - 📫 How to reach me via WhatsApp, send a text 
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/ Her
 - ⚡ Fun fact: Singing, dancing and writing 
 
 <!---
